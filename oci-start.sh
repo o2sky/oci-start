@@ -305,7 +305,7 @@ start() {
 
         # 输出访问地址
         echo -e "${BLUE}欢迎使用oci-start${NC}"
-        echo -e "${CYAN}访问地址为: ${NC}http://${IP}:9856"
+        echo -e "${CYAN}访问地址为: ${NC}http://${IP}:35409"
 
     else
         log_error "应用启动失败"
